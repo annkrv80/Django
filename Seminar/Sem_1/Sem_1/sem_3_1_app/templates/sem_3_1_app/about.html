@@ -1,0 +1,12 @@
+{% extends 'sem_3_1_app/base.html' %}
+
+{% block title %}Обо мне{% endblock %}
+
+{% block content %}
+    <p>Меня зовут Анна  -  и это мой первый сайт на Django.</p>
+    <ul>
+        <li>Сейчас {{ datetime }}</li>
+        <li>Вы посещали этот сайт {{ client_ip }}</li>
+    </ul>
+{% endblock %}
+   

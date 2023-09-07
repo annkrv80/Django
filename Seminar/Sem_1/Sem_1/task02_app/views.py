@@ -18,16 +18,21 @@ def coin(request):
     else:
         result = 'Орел'
     logger.info(f'Результат - {result}')
-    return HttpResponse(text(title, result))
+    
+    context = {'result' : result}
+    return render(request, 'task02_app/result.html', context)
 
 def cube(request):
     title = 'Бросок кубика'
     result = randint(1,6)
     logger.info(f'Результат - {result}')
-    return HttpResponse(text(title, result)) 
+
+    context = {'result' : result}
+    return render(request, 'task02_app/result.html', context)
 
 def rand100(request):
     title = 'Случайное число'
     result = randint(1, 100)
     logger.info(f'Результат - {result}')
-    return HttpResponse(text(title, result))
+    context = {'result' : result}
+    return render(request, 'task02_app/result.html', context)

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Статьи</title>
+</head>
+<body>
+    {% for post in posts %}
+        {% if post.public  %}
+            <a href="{% url 'post_full' post.id %}">{{ post.title }}</a>        
+        {% else %}
+            <p>{{ post.title }} </p>
+        {% endif %}
+
+    {% endfor %}
+</body>
+
+</html>

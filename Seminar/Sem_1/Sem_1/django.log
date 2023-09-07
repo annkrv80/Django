@@ -40,3 +40,1948 @@ INFO 2023-08-30 00:27:46,590 views 42328 10328 Результат - 75
 INFO 2023-08-30 00:27:46,590 basehttp 42328 10328 "GET /rand100/ HTTP/1.1" 200 68
 INFO 2023-08-30 00:27:46,882 views 42328 10328 Результат - 91
 INFO 2023-08-30 00:27:46,882 basehttp 42328 10328 "GET /rand100/ HTTP/1.1" 200 68
+INFO 2023-09-01 20:23:04,939 autoreload 8600 4444 Watching for file changes with StatReloader
+INFO 2023-09-01 20:23:08,472 basehttp 8600 22352 "GET / HTTP/1.1" 200 13
+WARNING 2023-09-01 20:23:08,576 log 8600 22352 Not Found: /favicon.ico
+WARNING 2023-09-01 20:23:08,577 basehttp 8600 22352 "GET /favicon.ico HTTP/1.1" 404 2938
+INFO 2023-09-06 22:24:37,810 autoreload 7044 13392 Watching for file changes with StatReloader
+INFO 2023-09-06 22:24:40,423 basehttp 7044 26036 "GET / HTTP/1.1" 200 13
+WARNING 2023-09-06 22:24:40,504 log 7044 26036 Not Found: /favicon.ico
+WARNING 2023-09-06 22:24:40,508 basehttp 7044 26036 "GET /favicon.ico HTTP/1.1" 404 2938
+INFO 2023-09-06 22:25:10,208 autoreload 7044 13392 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:10,616 autoreload 12064 23228 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:12,909 autoreload 12064 23228 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:13,324 autoreload 3048 29152 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:16,582 autoreload 3048 29152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:16,999 autoreload 24552 25416 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:19,185 autoreload 24552 25416 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:19,575 autoreload 18328 1256 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:21,757 autoreload 18328 1256 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:22,144 autoreload 7944 28268 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:27,393 autoreload 7944 28268 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:27,774 autoreload 24628 7316 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:29,941 autoreload 24628 7316 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:30,356 autoreload 29124 26336 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:32,540 autoreload 29124 26336 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:32,930 autoreload 23844 29188 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:34,269 autoreload 23844 29188 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:25:34,715 autoreload 26184 21872 Watching for file changes with StatReloader
+INFO 2023-09-06 22:25:58,063 autoreload 26912 31340 Watching for file changes with StatReloader
+INFO 2023-09-06 22:26:34,309 autoreload 26912 31340 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:26:34,718 autoreload 28784 27080 Watching for file changes with StatReloader
+INFO 2023-09-06 22:26:59,202 autoreload 14896 27036 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:13,651 autoreload 14896 27036 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:14,077 autoreload 22096 30712 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:17,291 autoreload 22096 30712 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:17,689 autoreload 27636 31504 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:19,849 autoreload 27636 31504 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:20,238 autoreload 18764 9152 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:21,395 autoreload 18764 9152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:21,828 autoreload 27016 14892 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:25,050 autoreload 27016 14892 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:25,454 autoreload 6972 27448 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:26,600 autoreload 6972 27448 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:27,018 autoreload 22832 8820 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:29,196 autoreload 22832 8820 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:29,603 autoreload 14344 21612 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:34,832 autoreload 14344 21612 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:35,215 autoreload 30504 24480 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:38,409 autoreload 30504 24480 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:38,803 autoreload 13928 25312 Watching for file changes with StatReloader
+INFO 2023-09-06 22:27:42,020 autoreload 13928 25312 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:27:42,414 autoreload 23624 29000 Watching for file changes with StatReloader
+INFO 2023-09-06 22:28:20,527 autoreload 23624 29000 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:28:20,921 autoreload 24260 26036 Watching for file changes with StatReloader
+INFO 2023-09-06 22:28:51,380 autoreload 26408 24524 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:12,263 autoreload 26408 24524 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:12,651 autoreload 22108 17056 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:15,882 autoreload 22108 17056 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:16,257 autoreload 23236 5916 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:20,483 autoreload 23236 5916 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:20,871 autoreload 30004 20372 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:23,053 autoreload 30004 20372 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:23,452 autoreload 23156 10984 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:24,602 autoreload 23156 10984 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:25,035 autoreload 29280 18256 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:26,204 autoreload 29280 18256 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:26,587 autoreload 23128 27344 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:32,969 autoreload 23128 27344 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:33,356 autoreload 11756 4352 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:34,522 autoreload 11756 4352 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:34,908 autoreload 872 17764 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:37,091 autoreload 872 17764 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:37,471 autoreload 24108 20960 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:40,656 autoreload 24108 20960 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:41,055 autoreload 31468 19152 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:43,279 autoreload 31468 19152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:43,675 autoreload 28808 14004 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:49,022 autoreload 28808 14004 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:49,405 autoreload 21168 25520 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:50,566 autoreload 21168 25520 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:50,949 autoreload 28976 18940 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:53,126 autoreload 28976 18940 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:53,522 autoreload 3624 13864 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:54,684 autoreload 3624 13864 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:55,072 autoreload 13640 19136 Watching for file changes with StatReloader
+INFO 2023-09-06 22:30:58,265 autoreload 13640 19136 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:30:58,699 autoreload 28876 15856 Watching for file changes with StatReloader
+INFO 2023-09-06 22:31:38,066 autoreload 24460 29780 Watching for file changes with StatReloader
+INFO 2023-09-06 22:32:05,065 autoreload 25100 11792 Watching for file changes with StatReloader
+INFO 2023-09-06 22:32:22,574 autoreload 25100 11792 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:32:22,965 autoreload 10880 26756 Watching for file changes with StatReloader
+INFO 2023-09-06 22:32:24,142 autoreload 10880 26756 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:32:24,579 autoreload 23360 19756 Watching for file changes with StatReloader
+INFO 2023-09-06 22:32:36,224 autoreload 31708 31268 Watching for file changes with StatReloader
+INFO 2023-09-06 22:34:58,204 autoreload 31708 31268 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 22:34:58,614 autoreload 26056 22896 Watching for file changes with StatReloader
+INFO 2023-09-06 22:35:32,958 autoreload 4804 25252 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:08,120 autoreload 4804 25252 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:08,456 autoreload 26056 22896 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:08,559 autoreload 27652 25592 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:08,887 autoreload 30424 31096 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:12,090 autoreload 30424 31096 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:12,501 autoreload 27080 9840 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:12,816 autoreload 27652 25592 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:13,228 autoreload 14424 18040 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:16,729 autoreload 27080 9840 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:17,114 autoreload 4556 1364 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:17,576 autoreload 14424 18040 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:17,961 autoreload 24064 29880 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:37,497 autoreload 24064 29880 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:37,648 autoreload 4556 1364 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_3_1_app\urls.py changed, reloading.
+INFO 2023-09-06 22:37:37,971 autoreload 10492 24564 Watching for file changes with StatReloader
+INFO 2023-09-06 22:37:38,120 autoreload 28800 18580 Watching for file changes with StatReloader
+WARNING 2023-09-06 22:37:41,234 log 10492 13576 Not Found: /
+WARNING 2023-09-06 22:37:41,235 basehttp 10492 13576 "GET / HTTP/1.1" 404 2373
+INFO 2023-09-06 22:37:49,529 basehttp 10492 13576 "GET /sem3 HTTP/1.1" 301 0
+INFO 2023-09-06 22:37:49,543 basehttp 10492 2920 "GET /sem3/ HTTP/1.1" 200 323
+INFO 2023-09-06 22:37:56,386 basehttp 10492 2920 "GET /sem3/about HTTP/1.1" 301 0
+INFO 2023-09-06 22:37:56,390 basehttp 10492 13272 "GET /sem3/about/ HTTP/1.1" 200 370
+INFO 2023-09-06 22:39:01,895 basehttp 28800 3740 "GET /sem3/ HTTP/1.1" 200 323
+INFO 2023-09-06 22:39:31,073 autoreload 20552 6068 Watching for file changes with StatReloader
+WARNING 2023-09-06 22:39:33,536 log 28800 3740 Not Found: /
+WARNING 2023-09-06 22:39:33,538 basehttp 28800 3740 "GET / HTTP/1.1" 404 2373
+INFO 2023-09-06 22:39:42,098 basehttp 28800 3740 "GET /sem3/ HTTP/1.1" 200 323
+INFO 2023-09-06 22:39:50,735 basehttp 28800 3740 "GET /sem3/about/ HTTP/1.1" 200 395
+INFO 2023-09-06 23:01:29,567 autoreload 26668 22456 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:01:31,366 log 28800 10884 Not Found: /
+WARNING 2023-09-06 23:01:31,367 basehttp 28800 10884 "GET / HTTP/1.1" 404 2373
+INFO 2023-09-06 23:01:38,058 basehttp 28800 10884 "GET /sem3/ HTTP/1.1" 200 381
+INFO 2023-09-06 23:01:43,622 basehttp 28800 10884 "GET /sem3/about/ HTTP/1.1" 200 434
+INFO 2023-09-06 23:11:22,488 autoreload 28800 18580 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:22,949 autoreload 23264 29660 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:24,282 autoreload 23264 29660 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:24,738 autoreload 26160 10792 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:26,100 autoreload 26160 10792 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:26,548 autoreload 30160 31216 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:27,855 autoreload 30160 31216 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:28,242 autoreload 24436 28268 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:33,659 autoreload 24436 28268 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:34,053 autoreload 14252 28820 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:39,279 autoreload 14252 28820 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:39,671 autoreload 28500 5404 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:44,026 autoreload 28500 5404 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:44,439 autoreload 22688 4392 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:48,793 autoreload 22688 4392 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:11:49,231 autoreload 24872 24480 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:24,159 autoreload 24872 24480 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:24,565 autoreload 4568 25040 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:26,923 autoreload 4568 25040 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:27,360 autoreload 17144 15152 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:32,771 autoreload 17144 15152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:33,212 autoreload 27600 19036 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:38,629 autoreload 27600 19036 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:39,038 autoreload 24796 22832 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:41,332 autoreload 24796 22832 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:41,731 autoreload 31392 2148 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:44,033 autoreload 31392 2148 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:44,420 autoreload 27760 20960 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:45,712 autoreload 27760 20960 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:46,145 autoreload 4920 14476 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:47,455 autoreload 4920 14476 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:47,891 autoreload 21384 21292 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:49,210 autoreload 21384 21292 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:49,609 autoreload 28752 2564 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:50,892 autoreload 28752 2564 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:12:51,316 autoreload 30596 29948 Watching for file changes with StatReloader
+INFO 2023-09-06 23:12:59,761 autoreload 30596 29948 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:00,165 autoreload 14224 27652 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:02,496 autoreload 14224 27652 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:02,877 autoreload 13764 14104 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:14,205 autoreload 13764 14104 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:14,583 autoreload 12748 31468 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:16,743 autoreload 12748 31468 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:17,118 autoreload 24928 23152 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:19,428 autoreload 24928 23152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:19,838 autoreload 20436 5604 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:24,240 autoreload 20436 5604 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:24,665 autoreload 13176 23136 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:25,817 autoreload 13176 23136 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:26,190 autoreload 7844 388 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:29,522 autoreload 7844 388 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:29,928 autoreload 18956 13224 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:32,234 autoreload 18956 13224 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:32,629 autoreload 11296 1568 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:58,533 autoreload 11296 1568 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:13:58,955 autoreload 21260 4744 Watching for file changes with StatReloader
+INFO 2023-09-06 23:14:02,362 autoreload 21260 4744 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:14:02,778 autoreload 21092 30032 Watching for file changes with StatReloader
+INFO 2023-09-06 23:14:03,934 autoreload 21092 30032 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:14:04,324 autoreload 13420 6556 Watching for file changes with StatReloader
+INFO 2023-09-06 23:14:16,863 autoreload 13420 6556 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:14:17,313 autoreload 22296 14428 Watching for file changes with StatReloader
+INFO 2023-09-06 23:14:24,773 autoreload 22296 14428 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\task02_app\views.py changed, reloading.
+INFO 2023-09-06 23:14:25,164 autoreload 7548 28808 Watching for file changes with StatReloader
+INFO 2023-09-06 23:17:49,611 autoreload 20976 2868 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:17:52,456 log 7548 21152 Not Found: /
+WARNING 2023-09-06 23:17:52,458 basehttp 7548 21152 "GET / HTTP/1.1" 404 2373
+INFO 2023-09-06 23:18:05,049 basehttp 7548 21152 "GET /sem2/coin HTTP/1.1" 301 0
+INFO 2023-09-06 23:18:05,053 views 7548 14668 Результат - Орел
+INFO 2023-09-06 23:18:05,058 basehttp 7548 14668 "GET /sem2/coin/ HTTP/1.1" 200 174
+INFO 2023-09-06 23:18:13,201 basehttp 7548 14668 "GET /sem2/rand100 HTTP/1.1" 301 0
+INFO 2023-09-06 23:18:13,205 views 7548 19192 Результат - 21
+INFO 2023-09-06 23:18:13,210 basehttp 7548 19192 "GET /sem2/rand100/ HTTP/1.1" 200 168
+INFO 2023-09-06 23:18:19,791 basehttp 7548 19192 "GET /sem2/cube HTTP/1.1" 301 0
+INFO 2023-09-06 23:18:19,795 views 7548 5528 Результат - 4
+INFO 2023-09-06 23:18:19,796 basehttp 7548 5528 "GET /sem2/cube/ HTTP/1.1" 200 167
+INFO 2023-09-06 23:52:13,599 autoreload 7548 28808 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:14,054 autoreload 28440 22216 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:15,215 autoreload 28440 22216 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:15,656 autoreload 19116 29800 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:16,927 autoreload 19116 29800 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:17,321 autoreload 19360 21092 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:20,511 autoreload 19360 21092 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:20,933 autoreload 15280 24564 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:24,243 autoreload 15280 24564 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:24,677 autoreload 24664 25148 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:31,990 autoreload 24664 25148 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:32,383 autoreload 28924 9892 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:35,572 autoreload 28924 9892 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:35,988 autoreload 29388 2284 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:39,177 autoreload 29388 2284 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:39,595 autoreload 18668 14796 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:40,763 autoreload 18668 14796 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:41,176 autoreload 1572 12876 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:43,520 autoreload 1572 12876 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:43,950 autoreload 21020 12812 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:49,328 autoreload 21020 12812 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:49,723 autoreload 18012 26980 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:50,887 autoreload 18012 26980 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:51,280 autoreload 18868 22680 Watching for file changes with StatReloader
+INFO 2023-09-06 23:52:56,519 autoreload 18868 22680 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:52:56,896 autoreload 6516 8616 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:09,309 autoreload 6516 8616 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:09,690 autoreload 17620 26652 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:16,966 autoreload 17620 26652 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:17,352 autoreload 26320 3084 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:20,541 autoreload 26320 3084 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:20,930 autoreload 22484 2420 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:23,093 autoreload 22484 2420 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:23,501 autoreload 7048 2812 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:24,662 autoreload 7048 2812 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:25,094 autoreload 22076 10072 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:27,431 autoreload 22076 10072 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:27,809 autoreload 30440 28852 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:30,130 autoreload 30440 28852 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\Sem_1\urls.py changed, reloading.
+INFO 2023-09-06 23:53:30,647 autoreload 29580 31308 Watching for file changes with StatReloader
+INFO 2023-09-06 23:53:32,352 autoreload 5636 22644 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:53:35,349 log 29580 25196 Not Found: /
+WARNING 2023-09-06 23:53:35,352 basehttp 29580 25196 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-06 23:53:40,060 log 29580 25196 Not Found: /sem2
+WARNING 2023-09-06 23:53:40,061 basehttp 29580 25196 "GET /sem2 HTTP/1.1" 404 2510
+INFO 2023-09-06 23:54:07,821 basehttp 29580 25196 "GET /sem2/posts/5 HTTP/1.1" 301 0
+ERROR 2023-09-06 23:54:07,900 log 29580 31536 Internal Server Error: /sem2/posts/5/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 5, in get_post
+    post = Post.objects.filter(author_pk = Author)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_pk' into field. Choices are: author, author_id, caterory, content, count, id, public, public_data, title
+ERROR 2023-09-06 23:54:07,909 basehttp 29580 31536 "GET /sem2/posts/5/ HTTP/1.1" 500 113787
+INFO 2023-09-06 23:55:24,814 autoreload 29580 31308 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-06 23:55:25,025 autoreload 5636 22644 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-06 23:55:25,279 autoreload 20436 30460 Watching for file changes with StatReloader
+INFO 2023-09-06 23:55:25,545 autoreload 27768 4440 Watching for file changes with StatReloader
+INFO 2023-09-06 23:55:35,540 autoreload 27120 12864 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:55:38,007 log 20436 12876 Not Found: /
+WARNING 2023-09-06 23:55:38,008 basehttp 20436 12876 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-06 23:55:46,892 log 20436 12876 Not Found: /sem2/
+WARNING 2023-09-06 23:55:46,893 basehttp 20436 12876 "GET /sem2/ HTTP/1.1" 404 2587
+ERROR 2023-09-06 23:55:59,452 log 20436 12876 Internal Server Error: /sem2/post/2/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 5, in get_post
+    post = Post.objects.filter(author_pk = Author)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_pk' into field. Choices are: author, author_id, caterory, content, count, id, public, public_data, title
+ERROR 2023-09-06 23:55:59,459 basehttp 20436 12876 "GET /sem2/post/2/ HTTP/1.1" 500 113777
+INFO 2023-09-06 23:57:49,675 autoreload 27120 12864 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:49,962 autoreload 20436 30460 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:50,181 autoreload 10868 23200 Watching for file changes with StatReloader
+INFO 2023-09-06 23:57:50,460 autoreload 31352 27076 Watching for file changes with StatReloader
+INFO 2023-09-06 23:57:51,375 autoreload 10868 23200 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:51,624 autoreload 31352 27076 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:51,857 autoreload 24744 21968 Watching for file changes with StatReloader
+INFO 2023-09-06 23:57:52,148 autoreload 21604 17056 Watching for file changes with StatReloader
+INFO 2023-09-06 23:57:53,251 autoreload 24744 21968 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:53,468 autoreload 21604 17056 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:57:53,726 autoreload 26256 27416 Watching for file changes with StatReloader
+INFO 2023-09-06 23:57:53,942 autoreload 24200 27160 Watching for file changes with StatReloader
+INFO 2023-09-06 23:58:01,327 autoreload 20528 12272 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:58:02,759 log 24200 26636 Not Found: /
+WARNING 2023-09-06 23:58:02,760 basehttp 24200 26636 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-06 23:58:17,079 basehttp 24200 26636 "GET /sem2/post/2 HTTP/1.1" 301 0
+ERROR 2023-09-06 23:58:17,124 log 24200 30484 Internal Server Error: /sem2/post/2/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 5, in get_post
+    post = Post.objects.filter(author_pk = author_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author_pk' into field. Choices are: author, author_id, caterory, content, count, id, public, public_data, title
+ERROR 2023-09-06 23:58:17,134 basehttp 24200 30484 "GET /sem2/post/2/ HTTP/1.1" 500 113375
+INFO 2023-09-06 23:59:18,982 autoreload 24200 27160 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:19,455 autoreload 21704 10008 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:19,767 autoreload 20528 12272 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:20,219 autoreload 25332 20272 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:21,413 autoreload 25332 20272 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:21,631 autoreload 21704 10008 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:21,899 autoreload 13580 23712 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:22,203 autoreload 12748 20744 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:25,338 autoreload 13580 23712 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:25,538 autoreload 12748 20744 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:25,782 autoreload 19032 26808 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:25,990 autoreload 24904 30744 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:27,979 autoreload 19032 26808 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:28,160 autoreload 24904 30744 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:28,426 autoreload 20940 29064 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:28,623 autoreload 8200 31604 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:29,772 autoreload 8200 31604 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:30,188 autoreload 14604 29088 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:38,647 autoreload 14604 29088 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:38,941 autoreload 20940 29064 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:39,115 autoreload 30640 31740 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:39,408 autoreload 9712 13488 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:40,293 autoreload 30640 31740 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:40,712 autoreload 29236 18216 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:48,933 autoreload 9712 13488 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:49,189 autoreload 29236 18216 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:49,395 autoreload 28152 19920 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:49,659 autoreload 8228 2032 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:53,816 autoreload 28152 19920 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:54,060 autoreload 8228 2032 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:54,264 autoreload 29360 29752 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:54,533 autoreload 26300 23160 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:55,625 autoreload 29360 29752 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:55,833 autoreload 26300 23160 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:56,071 autoreload 26472 11052 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:56,307 autoreload 13524 20976 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:57,411 autoreload 26472 11052 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:57,606 autoreload 13524 20976 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-06 23:59:57,847 autoreload 24836 30208 Watching for file changes with StatReloader
+INFO 2023-09-06 23:59:58,074 autoreload 8416 12544 Watching for file changes with StatReloader
+INFO 2023-09-07 00:00:05,346 autoreload 24836 30208 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:00:05,551 autoreload 8416 12544 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:00:05,843 autoreload 2024 18328 Watching for file changes with StatReloader
+INFO 2023-09-07 00:00:06,047 autoreload 14020 29052 Watching for file changes with StatReloader
+INFO 2023-09-07 00:00:16,403 autoreload 2024 18328 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:00:16,599 autoreload 14020 29052 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:00:16,871 autoreload 24344 25348 Watching for file changes with StatReloader
+INFO 2023-09-07 00:00:17,061 autoreload 4448 24496 Watching for file changes with StatReloader
+INFO 2023-09-07 00:00:31,404 autoreload 19280 13656 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:00:32,921 log 4448 2860 Not Found: /
+WARNING 2023-09-07 00:00:32,921 basehttp 4448 2860 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-07 00:00:44,092 basehttp 4448 14412 "GET /sem2/post/2/ HTTP/1.1" 200 5185
+INFO 2023-09-07 00:01:30,727 autoreload 16192 19864 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:01:33,783 log 4448 20032 Not Found: /
+WARNING 2023-09-07 00:01:33,788 basehttp 4448 20032 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-07 00:01:45,225 basehttp 4448 4916 "GET /sem2/post/1 HTTP/1.1" 301 0
+ERROR 2023-09-07 00:01:45,295 log 4448 8364 Internal Server Error: /sem2/post/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'post.public==1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 952, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 885, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 888, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '==1' from 'post.public==1'
+ERROR 2023-09-07 00:01:45,308 basehttp 4448 8364 "GET /sem2/post/1/ HTTP/1.1" 500 186544
+INFO 2023-09-07 00:04:28,628 autoreload 27680 20976 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:04:31,140 log 4448 11576 Not Found: /
+WARNING 2023-09-07 00:04:31,141 basehttp 4448 11576 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:04:42,807 log 4448 10996 Not Found: /sem2/posts/2
+WARNING 2023-09-07 00:04:42,808 basehttp 4448 10996 "GET /sem2/posts/2 HTTP/1.1" 404 2608
+INFO 2023-09-07 00:04:55,721 autoreload 27680 20976 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:04:56,208 autoreload 1376 19540 Watching for file changes with StatReloader
+INFO 2023-09-07 00:04:56,353 autoreload 4448 24496 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:04:56,792 autoreload 13148 29732 Watching for file changes with StatReloader
+INFO 2023-09-07 00:05:00,950 basehttp 1376 27152 "GET /sem2/posts/2 HTTP/1.1" 301 0
+ERROR 2023-09-07 00:05:01,001 log 1376 17076 Internal Server Error: /sem2/posts/2/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'post.public=1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 952, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 885, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 888, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '=1' from 'post.public=1'
+ERROR 2023-09-07 00:05:01,017 basehttp 1376 17076 "GET /sem2/posts/2/ HTTP/1.1" 500 187802
+INFO 2023-09-07 00:05:33,916 basehttp 1376 14544 "GET /sem2/posts/2/ HTTP/1.1" 200 5075
+INFO 2023-09-07 00:07:29,932 autoreload 24248 24376 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:07:31,318 log 13148 29000 Not Found: /
+WARNING 2023-09-07 00:07:31,319 basehttp 13148 29000 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:07:39,894 log 13148 29000 Not Found: /sem2/post/2/
+WARNING 2023-09-07 00:07:39,896 basehttp 13148 29000 "GET /sem2/post/2/ HTTP/1.1" 404 2609
+ERROR 2023-09-07 00:07:47,778 log 13148 29000 Internal Server Error: /sem2/posts/2/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'post.public=True'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 952, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 885, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 888, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '=True' from 'post.public=True'
+ERROR 2023-09-07 00:07:47,792 basehttp 13148 29000 "GET /sem2/posts/2/ HTTP/1.1" 500 187761
+WARNING 2023-09-07 00:08:31,855 log 13148 29000 Not Found: /
+WARNING 2023-09-07 00:08:31,855 basehttp 13148 29000 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-07 00:08:49,519 basehttp 13148 29000 "GET /sem2/posts/1 HTTP/1.1" 301 0
+ERROR 2023-09-07 00:08:49,570 log 13148 28844 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'post.public==True'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 952, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 885, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 888, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '==True' from 'post.public==True'
+ERROR 2023-09-07 00:08:49,582 basehttp 13148 28844 "GET /sem2/posts/1/ HTTP/1.1" 500 187712
+INFO 2023-09-07 00:09:09,315 basehttp 13148 28844 "GET /sem2/posts/1/ HTTP/1.1" 200 5165
+INFO 2023-09-07 00:09:54,016 autoreload 23612 22556 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:09:56,450 log 13148 28844 Not Found: /
+WARNING 2023-09-07 00:09:56,451 basehttp 13148 28844 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-07 00:10:12,846 basehttp 13148 28844 "GET /sem2/posts/1/ HTTP/1.1" 200 5165
+WARNING 2023-09-07 00:11:14,989 log 13148 28844 Not Found: /
+WARNING 2023-09-07 00:11:14,990 basehttp 13148 28844 "GET / HTTP/1.1" 404 2480
+INFO 2023-09-07 00:11:20,723 basehttp 13148 10384 "GET /sem2/posts/1/ HTTP/1.1" 200 5158
+WARNING 2023-09-07 00:11:53,565 log 13148 10384 Not Found: /sem2/posts/1/post/3/
+WARNING 2023-09-07 00:11:53,566 basehttp 13148 10384 "GET /sem2/posts/1/post/3/ HTTP/1.1" 404 2633
+INFO 2023-09-07 00:20:20,713 autoreload 13148 29732 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:20,723 autoreload 23612 22556 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:21,252 autoreload 29368 30480 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:34,974 autoreload 29368 30480 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:34,975 autoreload 29056 24740 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:35,476 autoreload 21364 6248 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:35,476 autoreload 10692 2260 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:36,855 autoreload 21364 6248 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:36,879 autoreload 10692 2260 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:37,465 autoreload 24692 22828 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:37,474 autoreload 3496 23972 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:50,164 autoreload 24692 22828 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:50,165 autoreload 3496 23972 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:50,630 autoreload 19868 19988 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:50,631 autoreload 12624 19036 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:55,110 autoreload 12624 19036 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:55,116 autoreload 19868 19988 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:20:55,565 autoreload 31184 21624 Watching for file changes with StatReloader
+INFO 2023-09-07 00:20:55,572 autoreload 26712 14804 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:01,055 autoreload 26712 14804 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:01,061 autoreload 31184 21624 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:01,529 autoreload 28152 29580 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:01,535 autoreload 5636 25416 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:04,961 autoreload 28152 29580 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:04,967 autoreload 5636 25416 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:05,440 autoreload 19844 15064 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:05,442 autoreload 18868 22432 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:09,884 autoreload 19844 15064 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:09,901 autoreload 18868 22432 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:10,336 autoreload 27780 23752 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:10,353 autoreload 27244 29240 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:13,729 autoreload 27780 23752 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:13,733 autoreload 27244 29240 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:21:14,224 autoreload 1484 14620 Watching for file changes with StatReloader
+INFO 2023-09-07 00:21:14,242 autoreload 4844 21700 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:20,704 autoreload 4844 21700 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:20,710 autoreload 1484 14620 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:21,182 autoreload 1052 1072 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:21,183 autoreload 6628 21316 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:24,611 autoreload 1052 1072 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:24,617 autoreload 6628 21316 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:25,054 autoreload 28456 13612 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:25,060 autoreload 26300 30152 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:30,318 autoreload 26300 30152 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:30,320 autoreload 28456 13612 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:30,776 autoreload 23112 5932 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:30,776 autoreload 21352 16616 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:35,185 autoreload 23112 5932 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:35,190 autoreload 21352 16616 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:35,654 autoreload 11484 14512 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:38,028 autoreload 11484 14512 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:38,029 autoreload 15596 6240 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:38,493 autoreload 29324 27212 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:38,497 autoreload 4568 19304 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:41,933 autoreload 29324 27212 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:41,961 autoreload 4568 19304 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:22:42,419 autoreload 27604 25784 Watching for file changes with StatReloader
+INFO 2023-09-07 00:22:42,432 autoreload 27472 31252 Watching for file changes with StatReloader
+INFO 2023-09-07 00:24:10,976 autoreload 27604 25784 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:24:10,978 autoreload 27472 31252 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:24:11,522 autoreload 10648 21208 Watching for file changes with StatReloader
+INFO 2023-09-07 00:24:11,522 autoreload 9228 25820 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:26,404 autoreload 9228 25820 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:26,411 autoreload 10648 21208 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:26,933 autoreload 26412 22124 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:26,935 autoreload 22016 27672 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:29,151 autoreload 22016 27672 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:29,553 autoreload 30384 31480 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:30,320 autoreload 26412 22124 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:30,749 autoreload 14840 11504 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:32,758 autoreload 30384 31480 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:33,063 autoreload 14840 11504 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:33,186 autoreload 28428 6916 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:33,524 autoreload 24672 28984 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:34,374 autoreload 28428 6916 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:34,790 autoreload 26228 20712 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:35,853 autoreload 24672 28984 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:36,296 autoreload 27596 9892 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:38,124 autoreload 26228 20712 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:38,476 autoreload 27596 9892 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:38,598 autoreload 29092 24908 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:38,970 autoreload 3928 28228 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:39,816 autoreload 29092 24908 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:40,123 autoreload 3928 28228 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:40,230 autoreload 12704 27120 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:40,531 autoreload 23560 9192 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:44,444 autoreload 12704 27120 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:44,748 autoreload 23560 9192 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:44,882 autoreload 26980 4916 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:45,182 autoreload 18560 26184 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:46,059 autoreload 26980 4916 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:46,461 autoreload 3136 21652 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:47,495 autoreload 18560 26184 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:47,619 autoreload 3136 21652 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:47,969 autoreload 26800 2580 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:48,089 autoreload 26880 24676 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:53,243 autoreload 26800 2580 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:53,333 autoreload 26880 24676 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:53,732 autoreload 30688 25512 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:53,831 autoreload 13588 29560 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:54,938 autoreload 30688 25512 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:54,994 autoreload 13588 29560 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:55,386 autoreload 19152 3764 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:55,443 autoreload 26920 9156 Watching for file changes with StatReloader
+INFO 2023-09-07 00:26:59,645 autoreload 19152 3764 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:26:59,822 autoreload 26920 9156 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:27:00,117 autoreload 24052 30676 Watching for file changes with StatReloader
+INFO 2023-09-07 00:27:00,299 autoreload 19096 1864 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:27:50,354 log 24052 27000 Not Found: /
+WARNING 2023-09-07 00:27:50,354 basehttp 24052 27000 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:28:01,055 log 24052 27000 Not Found: /sem2/post/2/
+WARNING 2023-09-07 00:28:01,056 basehttp 24052 27000 "GET /sem2/post/2/ HTTP/1.1" 404 2782
+WARNING 2023-09-07 00:28:10,469 log 24052 27000 Not Found: /sem2/posts/1/posts/3/
+WARNING 2023-09-07 00:28:10,470 basehttp 24052 27000 "GET /sem2/posts/1/posts/3/ HTTP/1.1" 404 2809
+INFO 2023-09-07 00:28:19,935 basehttp 24052 27000 "GET /sem2/posts/1/ HTTP/1.1" 200 5158
+WARNING 2023-09-07 00:28:23,508 log 24052 27000 Not Found: /sem2/posts/1/post/9/
+WARNING 2023-09-07 00:28:23,509 basehttp 24052 27000 "GET /sem2/posts/1/post/9/ HTTP/1.1" 404 2806
+INFO 2023-09-07 00:29:33,920 autoreload 18852 6516 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:29:35,444 log 19096 30376 Not Found: /
+WARNING 2023-09-07 00:29:35,445 basehttp 19096 30376 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:29:49,952 log 19096 30376 Not Found: /sem2/posts1
+WARNING 2023-09-07 00:29:49,952 basehttp 19096 30376 "GET /sem2/posts1 HTTP/1.1" 404 2779
+ERROR 2023-09-07 00:30:01,003 log 19096 30376 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:30:01,015 basehttp 19096 30376 "GET /sem2/posts/1/ HTTP/1.1" 500 161200
+INFO 2023-09-07 00:30:24,462 autoreload 19096 1864 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:30:24,672 autoreload 18852 6516 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:30:24,939 autoreload 29276 25752 Watching for file changes with StatReloader
+INFO 2023-09-07 00:30:25,142 autoreload 7580 29828 Watching for file changes with StatReloader
+INFO 2023-09-07 00:30:39,956 autoreload 19304 26856 Watching for file changes with StatReloader
+INFO 2023-09-07 00:31:13,786 autoreload 19304 26856 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:31:14,126 autoreload 29276 25752 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:31:14,261 autoreload 11764 30136 Watching for file changes with StatReloader
+INFO 2023-09-07 00:31:14,601 autoreload 29780 6916 Watching for file changes with StatReloader
+INFO 2023-09-07 00:31:15,455 autoreload 11764 30136 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:31:15,874 autoreload 25252 28984 Watching for file changes with StatReloader
+INFO 2023-09-07 00:31:18,845 autoreload 29780 6916 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:31:19,122 autoreload 25252 28984 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:31:19,301 autoreload 8520 12200 Watching for file changes with StatReloader
+INFO 2023-09-07 00:31:19,615 autoreload 24908 26496 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:31:23,088 log 8520 26420 Not Found: /
+WARNING 2023-09-07 00:31:23,092 basehttp 8520 26420 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:31:40,510 log 8520 26420 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:31:40,522 basehttp 8520 26420 "GET /sem2/posts/1/ HTTP/1.1" 500 161479
+ERROR 2023-09-07 00:31:51,576 log 8520 26420 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:31:51,586 basehttp 8520 26420 "GET /sem2/posts/1/ HTTP/1.1" 500 161205
+WARNING 2023-09-07 00:33:15,249 log 8520 26420 Not Found: /
+WARNING 2023-09-07 00:33:15,251 basehttp 8520 26420 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:33:29,031 log 8520 26420 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:33:29,042 basehttp 8520 26420 "GET /sem2/posts/1/ HTTP/1.1" 500 161479
+ERROR 2023-09-07 00:33:29,613 log 8520 26420 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:33:29,622 basehttp 8520 26420 "GET /sem2/posts/1/ HTTP/1.1" 500 161205
+INFO 2023-09-07 00:35:40,640 autoreload 24908 26496 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:35:40,643 autoreload 8520 12200 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:35:41,102 autoreload 11156 9324 Watching for file changes with StatReloader
+
+INFO 2023-09-07 00:35:46,395 autoreload 15224 13324 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:35:46,493 autoreload 11156 9324 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:35:46,833 autoreload 30104 27724 Watching for file changes with StatReloader
+INFO 2023-09-07 00:35:46,932 autoreload 17328 17132 Watching for file changes with StatReloader
+INFO 2023-09-07 00:35:59,242 autoreload 30104 27724 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:35:59,335 autoreload 17328 17132 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:35:59,662 autoreload 24940 22312 Watching for file changes with StatReloader
+INFO 2023-09-07 00:35:59,756 autoreload 8364 27480 Watching for file changes with StatReloader
+INFO 2023-09-07 00:36:01,850 autoreload 24940 22312 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:36:02,238 autoreload 12744 18908 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:36:07,422 log 12744 7344 Not Found: /
+WARNING 2023-09-07 00:36:07,423 basehttp 12744 7344 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:36:13,491 log 12744 7344 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:36:13,502 basehttp 12744 7344 "GET /sem2/posts/1/ HTTP/1.1" 500 161344
+ERROR 2023-09-07 00:36:14,615 log 12744 7344 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:36:14,626 basehttp 12744 7344 "GET /sem2/posts/1/ HTTP/1.1" 500 161070
+INFO 2023-09-07 00:38:34,004 autoreload 23800 2852 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:38:35,819 log 23800 8096 Not Found: /
+WARNING 2023-09-07 00:38:35,820 basehttp 23800 8096 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:38:40,939 log 23800 8096 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:38:40,949 basehttp 23800 8096 "GET /sem2/posts/1/ HTTP/1.1" 500 161090
+INFO 2023-09-07 00:38:48,581 basehttp 23800 8096 "GET /sem3/about/ HTTP/1.1" 200 434
+WARNING 2023-09-07 00:38:59,578 log 23800 8096 Not Found: /sem2/post/1/
+WARNING 2023-09-07 00:38:59,579 basehttp 23800 8096 "GET /sem2/post/1/ HTTP/1.1" 404 2782
+ERROR 2023-09-07 00:39:14,840 log 23800 8096 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:39:14,850 basehttp 23800 8096 "GET /sem2/posts/1/ HTTP/1.1" 500 160816
+INFO 2023-09-07 00:40:54,842 autoreload 8364 27480 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:40:54,851 autoreload 23800 2852 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:40:55,293 autoreload 21072 24052 Watching for file changes with StatReloader
+INFO 2023-09-07 00:40:55,304 autoreload 13200 19504 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:40:59,920 log 21072 9800 Not Found: /
+WARNING 2023-09-07 00:40:59,921 basehttp 21072 9800 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:41:07,407 log 21072 9800 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:41:07,419 basehttp 21072 9800 "GET /sem2/posts/1/ HTTP/1.1" 500 160816
+WARNING 2023-09-07 00:41:15,221 log 21072 9800 Not Found: /sem2/post/1/
+WARNING 2023-09-07 00:41:15,230 basehttp 21072 9800 "GET /sem2/post/1/ HTTP/1.1" 404 2781
+ERROR 2023-09-07 00:41:42,291 log 21072 9800 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:41:42,300 basehttp 21072 9800 "GET /sem2/posts/1/ HTTP/1.1" 500 160816
+INFO 2023-09-07 00:43:32,733 autoreload 21072 24052 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:33,165 autoreload 9596 22116 Watching for file changes with StatReloader
+INFO 2023-09-07 00:43:33,542 autoreload 13200 19504 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:33,973 autoreload 27208 15340 Watching for file changes with StatReloader
+INFO 2023-09-07 00:43:36,377 autoreload 9596 22116 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:36,803 autoreload 17676 28888 Watching for file changes with StatReloader
+INFO 2023-09-07 00:43:37,216 autoreload 27208 15340 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:37,622 autoreload 10156 24736 Watching for file changes with StatReloader
+INFO 2023-09-07 00:43:43,067 autoreload 17676 28888 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:43,553 autoreload 29332 7384 Watching for file changes with StatReloader
+INFO 2023-09-07 00:43:43,876 autoreload 10156 24736 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py changed, reloading.
+INFO 2023-09-07 00:43:44,372 autoreload 29408 31408 Watching for file changes with StatReloader
+INFO 2023-09-07 00:44:30,680 autoreload 29332 7384 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:44:31,102 autoreload 24908 8520 Watching for file changes with StatReloader
+INFO 2023-09-07 00:44:35,337 autoreload 24908 8520 C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\urls.py changed, reloading.
+INFO 2023-09-07 00:44:35,757 autoreload 14812 11732 Watching for file changes with StatReloader
+INFO 2023-09-07 00:44:43,659 autoreload 10468 29548 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:44:46,125 log 10468 22072 Not Found: /
+WARNING 2023-09-07 00:44:46,126 basehttp 10468 22072 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:44:49,546 log 10468 22072 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:44:49,559 basehttp 10468 22072 "GET /sem2/posts/1/ HTTP/1.1" 500 161230
+ERROR 2023-09-07 00:44:53,255 log 10468 22072 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:44:53,267 basehttp 10468 22072 "GET /sem2/posts/1/ HTTP/1.1" 500 160956
+INFO 2023-09-07 00:47:39,176 autoreload 14604 5504 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:47:40,432 log 14604 28668 Not Found: /
+WARNING 2023-09-07 00:47:40,433 basehttp 14604 28668 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:48:01,226 log 14604 28668 Not Found: /
+WARNING 2023-09-07 00:48:01,227 basehttp 14604 28668 "GET / HTTP/1.1" 404 2480
+WARNING 2023-09-07 00:48:05,803 log 14604 28668 Not Found: /
+WARNING 2023-09-07 00:48:05,803 basehttp 14604 28668 "GET / HTTP/1.1" 404 2480
+ERROR 2023-09-07 00:48:10,846 log 14604 28668 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:48:10,855 basehttp 14604 28668 "GET /sem2/posts/1/ HTTP/1.1" 500 161258
+ERROR 2023-09-07 00:48:15,128 log 14604 28668 Internal Server Error: /sem2/posts/1/
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\Seminar\Sem_1\Sem_1\sem_2_1\views.py", line 7, in get_post
+    return render(request, 'sem_2_1/main.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Desktop\Django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post_full' not found. 'post_full' is not a valid view function or pattern name.
+ERROR 2023-09-07 00:48:15,139 basehttp 14604 28668 "GET /sem2/posts/1/ HTTP/1.1" 500 160984
